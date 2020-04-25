@@ -136,7 +136,6 @@ padding-right: 60px;
 color: #ffc000;
 }
 .main__screen{
-
 	flex: 1 0 100%;
 	position: relative;
 }
@@ -295,19 +294,19 @@ section{
 	max-width: 77px;
 	max-height: 77px;
 	border-radius: 50%;
-
 }
+
 .skill__item:hover #icon1{
-	content: url(img/brush.png);
+	content: url(brush1.gif);
 }
 .skill__item:hover #icon2{
-	content: url(img/icon2ww.png);
+	content: url(icon2.gif);
 }
 .skill__item:hover #icon3{
-	content: url(img/icon3ww.png);
+	content: url(icon3.gif);
 }
 .skill__item:hover #icon4{
-	content: url(img/icon4ww.png);
+	content: url(icon4.gif);
 }
 .skill__title{
 	margin-bottom: 21px;
