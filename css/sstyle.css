@@ -73,6 +73,7 @@ font-family: 'Proxima Nova', Georgia, sans-serif;
 
 }
 .header__row{
+
 	display: flex;
 	justify-content: space-between;
 }
